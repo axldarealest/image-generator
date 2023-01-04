@@ -50,8 +50,8 @@ export default function Home() {
       </Head>
 
       <p>
-        Dream something with{" "}
-        <a href="https://replicate.com/stability-ai/stable-diffusion">stability-ai/stable-diffusion</a>:
+        This generator by AI was build by {" "}
+        <a href="https://github.com/axldarealest">Axel Molbert Logan</a>:
       </p>
 
       <form className={styles.form} onSubmit={handleSubmit}>
